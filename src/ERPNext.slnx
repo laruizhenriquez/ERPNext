@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../tests/ERPNext.IntegrationTests/ERPNext.IntegrationTests.csproj" />
+  <Project Path="../tests/ERPNext.UnitTests/ERPNext.UnitTests.csproj" />
+  <Project Path="ERPNext.Api/ERPNext.Api.csproj" />
+  <Project Path="ERPNext.Application/ERPNext.Application.csproj" />
+  <Project Path="ERPNext.Domain/ERPNext.Domain.csproj" />
+  <Project Path="ERPNext.Infrastructure/ERPNext.Infrastructure.csproj" />
+  <Project Path="ERPNext.Shared/ERPNext.Shared.csproj" />
+</Solution>

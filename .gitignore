@@ -1,0 +1,26 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Usuario
+*.user
+*.suo
+
+## Logs
+*.log
+
+## NuGet
+packages/
+
+## Publicación
+publish/
+
+## Archivos temporales
+Temp/

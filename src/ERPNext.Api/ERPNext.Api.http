@@ -1,0 +1,6 @@
+@ERPNext.Api_HostAddress = http://localhost:5121
+
+GET {{ERPNext.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
