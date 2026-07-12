@@ -5,6 +5,16 @@
     <ProjectReference Include="..\ERPNext.Shared\ERPNext.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Behaviors\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Features\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
